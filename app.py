@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Read the dataset into a Pandas DataFrame
-df = pd.read_csv('/Users/bebi.a/project1/coaster_db.csv')
+df = pd.read_csv('./coaster_db.csv')
 
 # Streamlit page configuration
 st.set_page_config(page_title="Data Analysis App")
