@@ -1,5 +1,9 @@
 # Project Title: Data Analysis Web Application
 
+## Project URL
+
+https://project1-ur4g.onrender.com
+
 ## Description
 
 This project is a web-based application designed for performing exploratory data analysis (EDA) on various datasets. The primary function of this tool is to enable users to visualize data through histograms, scatter plots, and other statistical graphs. It's a perfect tool for data scientists and analysts looking to get quick insights from their datasets. I am using rollercoaster dataset in this project.
