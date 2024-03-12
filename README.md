@@ -1,3 +1,7 @@
+# Hi Dmitrii,
+
+## I didn't use the dataset that is provided in the description. I use my own dataset that is found on kaggle. But the comments you are giving is for the dataset that is provided in the description. I am a little bit confused. But I structured the my EDA notebook as you requested. Please let me know if there is anything to fix. Thank you so much for your review on my project.
+
 # Project Title: Data Analysis Web Application
 
 ## Project URL
